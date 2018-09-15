@@ -1,0 +1,15 @@
+1. D. Class (it is user defined)
+
+2. A. List
+
+3. C. Float (type-casting)
+
+4. C. 1 and 3 only (explanation-i googled it)
+
+5. C. 4 (it is integer division i.e. it truncates decimal value)
+
+6. operator overloading yet to be taught in class
+
+7. same case of operator overloading
+
+8. C. Error (Because i++ is not valid in python)
