@@ -23,7 +23,7 @@ s="Acadview"
 course="Python"
 fees=5000
 
-print(s,course,fees)
+print("%s %s %d" %(s,course,fees))
 
 #find area of circle
 pi=3.14
