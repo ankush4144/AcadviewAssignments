@@ -8,8 +8,7 @@ for i in string:
     if(i.isupper()):
         print(i)
 
-#Q.1- Reverse the whole list using list methods. Q.2- Print all the uppercase
-#letters from a string. Q.3- Split the user input on comma's and store the
+#Q.3- Split the user input on comma's and store the
 #values in a list as integers.
 str1=input("Enter list seperated by commas")
 str1=str1.split(',')
