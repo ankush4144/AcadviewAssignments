@@ -1,0 +1,15 @@
+1. b.type 'type'(because we are getting type of type function)
+
+2. c.abcd
+
+3. a.A(firstly we are getting ascii value of 'A' and then typecasting to char)
+
+4. a.48(its a simple lambda function)
+
+5. d.Method
+
+6. a.id returns the identity of the object
+
+7. c.[3,5,20,5,25,1,3](we are popping element using index)
+
+8. e.the current time in milliseconds since midnight,january 1,1970 GMT(the unix time)
